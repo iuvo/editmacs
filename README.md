@@ -1,7 +1,7 @@
-# **ISPF Master Class: Edit Macros**
+# ISPF Master Class: Edit Macros
 The edit macros and execs in this package are related to the
 session ISPF Master Class: Edit Macros given by me on multiple
-occasions at SHARE and GSE-UK conferences.
+occasions at **SHARE** and GSE-UK conferences.
 
 Please provide me with any suggestions and/or corrections.
 
